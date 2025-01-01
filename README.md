@@ -37,11 +37,20 @@ A **galaxy schema** (or fact constellation schema) was employed to support compl
 ## 📈 Key Findings  
 This project delivered valuable insights into various aspects of the business:  
 
-- **Operational Efficiency**:Highlighted inefficiencies in inventory management processes.  
-- **Revenue Trends**: Highlighted top-performing products and seasonal sales patterns.  
-- **Customer Behavior**: Provided segmentation insights, improving targeted marketing efforts.  
-- **Financial Insights**: Revealed cost-to-revenue ratios and areas for expense optimization.  
-- **Return Analysis**: Analyzed trends in product returns, leading to actionable recommendations for quality improvement.  
+1. Identified areas for improvement in inventory management, enabling process optimization. 
+2. Uncovered top-performing products and seasonal sales patterns, informing strategic decision-making.
+3. Delivered segmentation insights, enhancing targeted marketing efforts and customer engagement.  
+4. Exposed cost-to-revenue ratios and pinpointed opportunities for expense reduction, driving financial efficiency.
+5. Examined product return trends, yielding actionable recommendations for quality enhancements and customer satisfaction improvement.
+
+## 💡Recommendation
+Based on the analysis, we recommend the following actions:
+
+1. Streamline inventory management to minimize stockouts and improve order fulfillment efficiency.
+2. Address high-return products by investigating and resolving quality or usability concerns.
+3. Focus on promoting top-performing products to maximize revenue and enhance profitability.
+4. Develop a customer segmentation strategy to improve targeted marketing and boost customer retention.
+5. Leverage return trend insights to implement preventive measures, such as better product descriptions or enhanced quality control, to reduce return rates.
 
 ## 🤝 Collaboration  
 This repository is open for exploration, feedback, and contributions. Dive into the Power BI dashboards and data models to uncover more insights!  
