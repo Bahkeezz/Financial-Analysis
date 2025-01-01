@@ -37,7 +37,7 @@ A **galaxy schema** (or fact constellation schema) was employed to support compl
 ## 📈 Key Findings  
 This project delivered valuable insights into various aspects of the business:  
 
-- **Operational Efficiency**: Identified bottlenecks in inventory management and order processing.  
+- **Operational Efficiency**:Highlighted inefficiencies in inventory management processes.  
 - **Revenue Trends**: Highlighted top-performing products and seasonal sales patterns.  
 - **Customer Behavior**: Provided segmentation insights, improving targeted marketing efforts.  
 - **Financial Insights**: Revealed cost-to-revenue ratios and areas for expense optimization.  
