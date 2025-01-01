@@ -1,5 +1,4 @@
-# Financial-Analysis
-# 🚀 Data Analytics Project: Comprehensive Business Insights  
+# Comprehensive Business Insights  
 
 ## Overview  
 This repository showcases a financial analysis extracted to derive meaningful insights into a company's day-to-day activities. The project involves analyzing a relational database comprising **10 interconnected tables** using **Power Query**, **Data Modeling**, **DAX**, and **Power BI** for visualization.  
