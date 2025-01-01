@@ -1,4 +1,4 @@
-# Comprehensive Business Insights  
+[AcccountHolder.csv](https://github.com/user-attachments/files/18285143/AcccountHolder.csv)# Comprehensive Business Insights  
 
 ## Overview  
 This repository showcases a financial analysis extracted to derive meaningful insights into a company's day-to-day activities. The project involves analyzing a relational database comprising **10 interconnected tables** using **Power Query**, **Data Modeling**, **DAX**, and **Power BI** for visualization.  
@@ -6,7 +6,7 @@ This repository showcases a financial analysis extracted to derive meaningful in
 ## 📚 Database Design  
 The database was designed to capture key aspects of business operations, facilitating a comprehensive analysis. Below is an overview of the datasets used:  
 
-- **AccountHolder**: Information on individuals or entities holding accounts within the organization.  
+- **AccountHolder**: Information on individuals or entities holding accounts within the organization.
 - **Account**: Details of financial accounts, including types and associated balances.  
 - **Customers**: Demographic and segmentation data about the organization's customers.  
 - **DepartmentGroup**: Hierarchical categorization of departments across the organization.  
