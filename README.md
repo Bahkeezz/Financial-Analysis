@@ -1,4 +1,4 @@
-# Comprehensive Business Insights  
+# Business Insights  
 
 ## Overview  
 This repository showcases a financial analysis extracted to derive meaningful insights into a company's day-to-day activities. The project involves analyzing a relational database comprising **10 interconnected tables** using **Power Query**, **Data Modeling**, **DAX**, and **Power BI** for visualization.  
@@ -51,5 +51,7 @@ Based on the analysis, we recommend the following actions:
 4. Develop a customer segmentation strategy to improve targeted marketing and boost customer retention.
 5. Leverage return trend insights to implement preventive measures, such as better product descriptions or enhanced quality control, to reduce return rates.
 
+## ✉️ Dashboard Link: https://shorturl.at/P0uK1
+
 ## 🤝 Collaboration  
-This repository is open for exploration, feedback, and contributions. Dive into the Power BI dashboards and data models to uncover more insights!  
+This repository is open for exploration, feedback, and contributions. 
