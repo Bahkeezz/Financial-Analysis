@@ -20,6 +20,8 @@ The database was designed to capture key aspects of business operations, facilit
 ## 🔗 Data Modeling  
 A **galaxy schema** (or fact constellation schema) was employed to support complex queries and analyses across multiple business processes.  
 
+![Modelling](https://github.com/Bahkeezz/Financial-Analysis/blob/08de1263babe4e77efa4925b729d27ff26102936/Screenshot%202025-01-01%20115034.png)
+
 ### Key Aspects of the Schema Design  
 - **Three fact tables**: `FactTable`, `Finance`, and `Returns` are connected via a shared **Date table**, enabling cohesive time-based analysis.  
 - **Shared dimension tables**: `Products` and `Customers` are used by multiple fact tables to provide a unified view of key attributes across datasets.  
