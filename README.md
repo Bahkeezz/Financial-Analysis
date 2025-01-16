@@ -53,7 +53,11 @@ Based on the analysis, we recommend the following actions:
 4. Develop a customer segmentation strategy to improve targeted marketing and boost customer retention.
 5. Leverage return trend insights to implement preventive measures, such as better product descriptions or enhanced quality control, to reduce return rates.
 
-## Dashboard Link: https://shorturl.at/P0uK1
+## Dashboard 
+![Page1](https://github.com/Bahkeezz/Financial-Analysis/blob/9dcc6d654992d4a0afcd2247b72d3cc9c3c34cf0/Screenshot%202025-01-16%20132929.png)
+![Page1](https://github.com/Bahkeezz/Financial-Analysis/blob/9dcc6d654992d4a0afcd2247b72d3cc9c3c34cf0/Screenshot%202025-01-16%20132959.png)
+![Page1](https://github.com/Bahkeezz/Financial-Analysis/blob/9dcc6d654992d4a0afcd2247b72d3cc9c3c34cf0/Screenshot%202025-01-16%20133025.png)
+![Page1](https://github.com/Bahkeezz/Financial-Analysis/blob/9dcc6d654992d4a0afcd2247b72d3cc9c3c34cf0/Screenshot%202025-01-16%20133115.png)
 
 ## 🤝 Collaboration  
 This repository is open for exploration, feedback, and contributions. 
